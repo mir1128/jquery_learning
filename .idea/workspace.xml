@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a00faa98-60b3-4ae5-bf00-35a4332d77a8" name="Default" comment="" />
+    <list default="true" id="a00faa98-60b3-4ae5-bf00-35a4332d77a8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/02/02.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/02/02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/02/02.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="jquery_learning.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/JavaScript File.txt.ft" changelist="a00faa98-60b3-4ae5-bf00-35a4332d77a8" time="1398754777128" ignored="false" />
     <file path="/AMD JavaScript File.txt.ft" changelist="a00faa98-60b3-4ae5-bf00-35a4332d77a8" time="1398754793151" ignored="false" />
     <file path="/TypeScript File.txt.ft" changelist="a00faa98-60b3-4ae5-bf00-35a4332d77a8" time="1398754798405" ignored="false" />
     <file path="/01.js" changelist="a00faa98-60b3-4ae5-bf00-35a4332d77a8" time="1398754910189" ignored="false" />
+    <file path="/Dummy.txt" changelist="a00faa98-60b3-4ae5-bf00-35a4332d77a8" time="1398756103035" ignored="false" />
+    <file path="/02.js" changelist="a00faa98-60b3-4ae5-bf00-35a4332d77a8" time="1398756742464" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,25 +79,43 @@
       <file leaf-file-name="01.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/01/01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="119" selection-start="63" selection-end="63" vertical-scroll-proportion="-1.92">
+            <state line="5" column="4" selection-start="107" selection-end="219" vertical-scroll-proportion="-3.2">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/01/01.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="01.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/01/01.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="23" selection-start="82" selection-end="82" vertical-scroll-proportion="0.06266318">
+            <state line="3" column="25" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/02/02.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="117" selection-start="46" selection-end="46" vertical-scroll-proportion="-1.92">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/02/02.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="53" selection-start="86" selection-end="86" vertical-scroll-proportion="0.041884817">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/02/02.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,12 +128,23 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/01/01.html" />
         <option value="$PROJECT_DIR$/src/01/01.css" />
         <option value="$PROJECT_DIR$/src/01/01.js" />
+        <option value="$PROJECT_DIR$/src/02/02.css" />
+        <option value="$PROJECT_DIR$/src/02/02.html" />
+        <option value="$PROJECT_DIR$/src/02/02.js" />
       </list>
     </option>
   </component>
@@ -141,7 +179,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -202,6 +240,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery_learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery_learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery_learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery_learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -213,7 +287,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -328,6 +402,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a00faa98-60b3-4ae5-bf00-35a4332d77a8" name="Default" comment="" />
@@ -428,13 +519,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/01/01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="119" selection-start="63" selection-end="63" vertical-scroll-proportion="-1.92">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/01/01.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="68" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
@@ -444,7 +528,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/01/01.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="82" selection-end="82" vertical-scroll-proportion="0.06266318">
+        <state line="3" column="25" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01/01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="107" selection-end="219" vertical-scroll-proportion="-3.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/02/02.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/02/02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="117" selection-start="46" selection-end="46" vertical-scroll-proportion="-1.92">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/02/02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="53" selection-start="86" selection-end="86" vertical-scroll-proportion="0.041884817">
           <folding />
         </state>
       </provider>
